@@ -1,0 +1,5 @@
+- A client is software that makes requests.
+- A server is software that responds to those requests.
+- Client-server model describes how client-side and server-side software communicate and interact with each other.
+- Service interface are the methods and messages used to interact and invoke a service.
+- A server is a running software executable(the instance of a binary) that provides one or more services.
